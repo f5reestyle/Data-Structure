@@ -1,0 +1,22 @@
+insert 1 6
+INSERT: 1, 6
+insert 1 5
+INSERT: 1, 5
+insert 1 4
+INSERT: 1, 4
+printAll
+ALL: 4 5 6
+getValue 2
+GET: 2, 5
+remove 1
+REMOVE: 1, 4
+printAll
+ALL: 5 6
+update 2 7
+UPDATE: 2, 7
+printAll
+ALL: 5 7
+getValue 7
+GET: INVALID
+length
+LENGTH: 2

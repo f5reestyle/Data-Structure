@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LAB04-skeleton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LAB04_skeleton_jar</output-path>
+    <root id="archive" name="LAB04-2019-24853.jar">
+      <element id="module-output" name="LAB04-skeleton" />
+    </root>
+  </artifact>
+</component>

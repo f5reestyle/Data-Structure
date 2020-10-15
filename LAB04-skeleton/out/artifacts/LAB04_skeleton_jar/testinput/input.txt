@@ -1,0 +1,11 @@
+insert 1 6
+insert 1 5
+insert 1 4
+printAll
+getValue 2
+remove 1
+printAll
+update 2 7
+printAll
+getValue 7
+length
